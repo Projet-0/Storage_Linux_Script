@@ -136,3 +136,7 @@ parameter () {
 
 
 parameter -d $path ;
+
+
+# du -ckh  pour afficher la taille de tous les sous dossiers/fichiers directs 
+# du -cksh pour afficher la taille des sous dossier non cachées
